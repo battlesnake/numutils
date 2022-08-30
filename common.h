@@ -1,0 +1,55 @@
+#pragma once
+#include <cstdint>
+#include <cstddef>
+
+#include <map>
+#include <set>
+#include <algorithm>
+#include <stdexcept>
+#include <optional>
+#include <list>
+#include <string>
+#include <functional>
+#include <iostream>
+#include <vector>
+#include <unordered_set>
+#include <cmath>
+#include <utility>
+#include <memory>
+#include <iomanip>
+
+using std::size_t;
+using std::int64_t;
+using std::map;
+using std::min;
+using std::max;
+using std::set;
+using std::find_if;
+using std::domain_error;
+using std::swap;
+using std::optional;
+using std::nullopt;
+using std::make_optional;
+using std::list;
+using std::string;
+using std::invalid_argument;
+using std::copy_if;
+using std::back_inserter;
+using std::function;
+using std::stoll;
+using std::copy_n;
+using std::printf;
+using std::cout;
+using std::endl;
+using std::vector;
+using std::unordered_set;
+using std::sqrt;
+using std::pair;
+using std::shared_ptr;
+using std::make_shared;
+using std::setw;
+using std::forward;
+using std::transform;
+using std::lexicographical_compare;
+
+typedef int64_t integer;
